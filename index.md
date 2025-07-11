@@ -52,19 +52,19 @@ pubs:
 
 ### About
 
-I am an Assistant Professor at the [Department of Mathematics]
-in [New York Institute of Technology].
+I am an Assistant Professor in the [Department of Mathematics]
+at the [New York Institute of Technology].
 
-I was a visiting assistant professor at the [Georgia Institute of Technology].
+Previously, I was a Visiting Assistant Professor at the [Georgia Institute of Technology].
 
-I obtained my PhD at the [Columbia University] and my
-advisor was [Qiang Du].
+I received my PhD in Applied Mathematics from [Columbia University]
+under the supervision of [Qiang Du].
 
 [[hlee50@nyit.edu]] [[CV]: updated 2025/07/01].
 
 ### Research Interests
 
-My interests are in the numerical analysis of nonlocal models, hyperbolic conservation laws, machine learning and optimal transport.
+My research interests lie in the numerical analysis of nonlocal models, hyperbolic conservation laws, machine learning methods, and optimal transport theory.
 
 ### Publications / Preprints
 
