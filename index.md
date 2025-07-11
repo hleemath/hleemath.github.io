@@ -83,22 +83,16 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 
 **New York Tech**
 
-- Spring 2025
-  : MATH 260 (Calculus II)
-- Fall 2024
-  : MATH 320 (Differential Equations), MATH 260 (Calculus III)
+- Spring 2025: MATH 260 (Calculus II)
+- Fall 2024: MATH 320 (Differential Equations), MATH 260 (Calculus III)
 
-**Georgia Tech**
-_Instructor_
+**Georgia Tech** _(Instructor)_
 
-- Fall 2021 - Spring 2024 (every semester)
-  : MATH 1552 (Integral Calculus)
+- Fall 2021 – Spring 2024 (every semester): MATH 1552 (Integral Calculus)
 
-**Columbia University**
-_Teaching Assistant_
+**Columbia University** _(Teaching Assistant)_
 
-- Fall 2019 - Spring 2020
-  : APMA E2000 (Multivariable Calculus)
+- Fall 2019 – Spring 2020: APMA E2000 (Multivariable Calculus)
 
 <a rel="me" href="https://fosstodon.org/@dsrim"></a>
 
