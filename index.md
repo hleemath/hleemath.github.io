@@ -81,16 +81,16 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 
 ### Teaching
 
-**New York Tech**
+#### **New York Tech**
 
 - Spring 2025: MATH 260 (Calculus II)
 - Fall 2024: MATH 320 (Differential Equations), MATH 260 (Calculus III)
 
-**Georgia Tech** _(Instructor)_
+#### **Georgia Tech** _(Instructor)_
 
 - Fall 2021 – Spring 2024 (every semester): MATH 1552 (Integral Calculus)
 
-**Columbia University** _(Teaching Assistant)_
+#### **Columbia University** _(Teaching Assistant)_
 
 - Fall 2019 – Spring 2020: APMA E2000 (Multivariable Calculus)
 
