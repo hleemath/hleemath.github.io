@@ -4,6 +4,12 @@ title:
 permalink: /
 people:
 pubs:
+  - title: "A level-set based finite difference method for the ground state Bose-Einstein condensates in smooth bounded domains"
+    author: "H. Lee, Y. Liu"
+    journal: "Preprint"
+    arxiv: "https://arxiv.org/abs/2509.00668"
+    year: "2025"
+
   - title: "A PNP ion channel deep learning solver with local neural network and finite element input data"
     author: "H. Lee, Z. Chao, H. Cobb, Y. Liu, D. Xie"
     journal: "Machine Learning: Science and Technology"
