@@ -89,6 +89,7 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 
 #### **New York Tech**
 
+- Fall 2025: MATH 170 (Calculus I), MATH 310 (Linear Algebra)
 - Spring 2025: MATH 260 (Calculus II)
 - Fall 2024: MATH 320 (Differential Equations), MATH 260 (Calculus III)
 
