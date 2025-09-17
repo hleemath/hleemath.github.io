@@ -61,7 +61,7 @@ pubs:
 I am an Assistant Professor in the [Department of Mathematics]
 at the [New York Institute of Technology].
 
-Previously, I was a Visiting Assistant Professor at the [Georgia Institute of Technology].
+Previously, I was a Hale Visiting Assistant Professor at the [Georgia Institute of Technology].
 
 I received my PhD in Applied Mathematics from [Columbia University]
 under the supervision of [Qiang Du].
@@ -70,7 +70,8 @@ under the supervision of [Qiang Du].
 
 ### Research Interests
 
-My research interests lie in the numerical analysis of nonlocal models, hyperbolic conservation laws, machine learning methods, and optimal transport theory.
+Numerical/applied analysis, scientific computing, nonlocal models, partial differential
+equations, mathematics of machine learning, optimal transport
 
 ### Publications / Preprints
 
@@ -89,17 +90,17 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 
 #### **New York Tech**
 
-- Fall 2025: MATH 170 (Calculus I), MATH 310 (Linear Algebra)
-- Spring 2025: MATH 260 (Calculus II)
-- Fall 2024: MATH 260 (Calculus III), MATH 320 (Differential Equations)
+- Fall 2025: Calculus I (MATH 170), Linear Algebra (MATH 310)
+- Spring 2025: Calculus II (MATH 260)
+- Fall 2024: Calculus III (MATH 260), Differential Equations (MATH 320)
 
-#### **Georgia Tech** _(Instructor)_
+#### **Georgia Tech**
 
-- Fall 2021 – Spring 2024 (every semester): MATH 1552 (Integral Calculus)
+- Fall 2021 – Spring 2024 (every semester): Calculus II (MATH 1552)
 
 #### **Columbia University** _(Teaching Assistant)_
 
-- Fall 2019 – Spring 2020: APMA E2000 (Multivariable Calculus)
+- Fall 2019 – Spring 2020: Multivariable Calculus for Engineers (APMA E2000)
 
 <a rel="me" href="https://fosstodon.org/@dsrim"></a>
 
