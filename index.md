@@ -91,7 +91,7 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 
 - Fall 2025: MATH 170 (Calculus I), MATH 310 (Linear Algebra)
 - Spring 2025: MATH 260 (Calculus II)
-- Fall 2024: MATH 320 (Differential Equations), MATH 260 (Calculus III)
+- Fall 2024: MATH 260 (Calculus III), MATH 320 (Differential Equations)
 
 #### **Georgia Tech** _(Instructor)_
 
@@ -104,7 +104,7 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 <a rel="me" href="https://fosstodon.org/@dsrim"></a>
 
 [Qiang Du]: https://www.apam.columbia.edu/faculty/qiang-du
-[CV]: files/Donsub_Rim_CV.pdf
+[CV]: files/CV_Hwi_Lee_202509.pdf
 [hlee50@nyit.edu]: mailto:hlee50@nyit.edu
 [github page]: https://github.com/dsrim/
 [Columbia University]: https://apam.columbia.edu
