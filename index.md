@@ -66,7 +66,7 @@ Previously, I was a Hale Visiting Assistant Professor at the [Georgia Institute 
 I received my PhD in Applied Mathematics from [Columbia University]
 under the supervision of [Qiang Du].
 
-[[hlee50@nyit.edu]] [[CV]: updated 2025/09].
+[[hlee50@nyit.edu]] <!--[[CV]: updated 2025/09]. -->
 
 ### Research Interests
 
