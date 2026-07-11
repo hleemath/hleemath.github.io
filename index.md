@@ -54,7 +54,9 @@ pubs:
     year: "2019"
 ---
 
+<!-- 프로필 사진 주석 처리 (웹페이지에 안 보임)
 {% include image.html url="images/Hwi_Lee_Profile.jpg" caption="" width="300px" align="right" %}
+-->
 
 ### About
 
@@ -66,7 +68,7 @@ Previously, I was a Hale Visiting Assistant Professor at the [Georgia Institute 
 I received my PhD in Applied Mathematics from [Columbia University]
 under the supervision of [Qiang Du].
 
-[[hlee50@nyit.edu]] <!--[[CV]: updated 2025/09]. -->
+[[hlee50@nyit.edu]] <!--[[CV]: updated 2026/07]. -->
 
 ### Research Interests
 
@@ -90,6 +92,7 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 
 #### **New York Tech**
 
+- Spring 2025: Calculus III (MATH 260)
 - Fall 2025: Calculus I (MATH 170), Linear Algebra (MATH 310)
 - Spring 2025: Calculus II (MATH 260)
 - Fall 2024: Calculus III (MATH 260), Differential Equations (MATH 320)
