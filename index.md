@@ -92,7 +92,7 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 
 #### **New York Tech**
 
-- Spring 2025: Calculus III (MATH 260)
+- Spring 2026: Calculus III (MATH 260)
 - Fall 2025: Calculus I (MATH 170), Linear Algebra (MATH 310)
 - Spring 2025: Calculus II (MATH 260)
 - Fall 2024: Calculus III (MATH 260), Differential Equations (MATH 320)
