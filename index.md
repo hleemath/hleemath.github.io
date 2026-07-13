@@ -113,7 +113,7 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 
 <a rel="me" href="https://fosstodon.org/@dsrim"></a>
 
-[Qiang Du]: https://www.apam.columbia.edu/faculty/qiang-du
+[Qiang Du]: https://www.columbia.edu/~qd2125/
 [CV]: files/CV_Hwi_Lee_202509.pdf
 [hlee50@nyit.edu]: mailto:hlee50@nyit.edu
 [github page]: https://github.com/dsrim/
