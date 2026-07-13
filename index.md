@@ -4,6 +4,12 @@ title:
 permalink: /
 people:
 pubs:
+  - title: "Another look at the static PDE approach to multidimensional extrapolation"
+    author: "H. Lee"
+    journal: "Preprint"
+    arxiv: "https://arxiv.org/abs/2607.08980"
+    year: "2026"
+
   - title: "A level-set based finite difference method for the ground state Bose-Einstein condensates in smooth bounded domains"
     author: "H. Lee, Y. Liu"
     journal: "Preprint"
