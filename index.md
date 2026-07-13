@@ -120,4 +120,4 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 [Columbia University]: https://apam.columbia.edu
 [Department of Mathematics]: https://www.nyit.edu/academics/arts-and-sciences/mathematics/
 [New York Institute of Technology]: https://nyit.edu
-[Georgia Institute of Technology]: https://www.gatech.edu/
+[Georgia Institute of Technology]: https://math.gatech.edu/
