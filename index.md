@@ -116,7 +116,6 @@ _{{pub.journal}}_ {% if pub.note %} _({{pub.note}})_{% endif %}{% if pub.numbers
 [Qiang Du]: https://www.columbia.edu/~qd2125/
 [CV]: files/CV_Hwi_Lee_202509.pdf
 [hlee50@nyit.edu]: mailto:hlee50@nyit.edu
-[github page]: https://github.com/dsrim/
 [Columbia University]: https://apam.columbia.edu
 [Department of Mathematics]: https://www.nyit.edu/academics/arts-and-sciences/mathematics/
 [New York Institute of Technology]: https://nyit.edu
