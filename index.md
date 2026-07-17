@@ -4,7 +4,7 @@ title:
 permalink: /
 people:
 pubs:
-  - title: "Another look at the static PDE approach to multidimensional extrapolation"
+  - title: "A modified static PDE-based approach for multidimensional extrapolation"
     author: "H. Lee"
     journal: "Preprint"
     arxiv: "https://arxiv.org/abs/2607.08980"
